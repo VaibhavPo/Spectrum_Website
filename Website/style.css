@@ -1,0 +1,19 @@
+.bgcolor-bluish {
+    background-color: #F4F8FC;
+}
+.bgcolor-white {
+    background-color: rgb(255,255,255);
+}
+
+.ft-wt-200 {
+    font-weight: 200;
+}
+.ft-wt-300 {
+    font-weight: 300;
+}
+.ft-wt-400{
+    font-weight: 400;
+}
+.ft-wt-600{
+    font-weight: 600;
+}

@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile "E:/xamp/htdocs/Website/Backend/New folder/.htpasswd"
+
+Require valid-user

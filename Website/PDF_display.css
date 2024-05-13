@@ -1,0 +1,172 @@
+.imgContainer {
+    position: relative;
+    /* Add positioning */
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* .imgContainer pdf_canvas {
+
+    max-width: 100%;
+    max-height: 100%;
+    width: 90%;
+    height: 90%;
+    overflow: auto;
+
+  } */
+  .imgContainer {
+    position: relative;
+    /* Add positioning */
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+    border: 1px solid #ccc;
+    border-radius: 1%;
+    box-shadow: 4px 4px rgb(173, 224, 220, .5);
+  }
+
+  .imgContainer img {
+    max-width: 90%;
+    max-height: 90%;
+    width: auto;
+    height: auto;
+    border:  1px solid rgb(129, 208, 200);
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(129, 208, 200, .8);
+  }
+
+
+  .full-screen {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+  }
+
+  @media print {
+    body {
+      display: none;
+    }
+
+  }
+
+  #pdf-container {
+
+    max-width: 95%;
+    max-height: 85%;
+    height: auto;
+    width: auto;
+    overflow: auto;
+    /* position: relative; */
+    border:  1px solid rgb(129, 208, 200);
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(129, 208, 200, .8);
+
+  }
+
+  .pdf_control {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+position: absolute;
+bottom: 0.4rem;
+left: 50%;
+transform: translateX(-50%);
+/* max-width: 350px; */
+width:90%;
+}
+
+.pdf-controls-left,
+.pdf-controls-right {
+display: flex;
+/* gap: 0.5rem; */
+/* Adjust the gap between buttons */
+}
+
+
+/* 
+.pdf-controls-left button,
+.pdf-controls-right button {
+Your button styles here
+} */
+
+
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    user-select: none;
+    -webkit-user-select: none;
+    /* For Safari */
+    -moz-user-select: none;
+    /* For older Firefox versions */
+    -ms-user-select: none;
+    /* For Internet Explorer/Edge */
+  }
+
+  img.no-select-drag {
+    user-select: none;
+    -webkit-user-select: none;
+    /* For Safari */
+    -moz-user-select: none;
+    /* For older Firefox versions */
+    -ms-user-select: none;
+    /* For Internet Explorer/Edge */
+    pointer-events: none;
+
+  }
+
+  #overlay {
+    position: absolute;
+    display: flex;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+
+  }
+
+  #overlay.active {
+    opacity: 0;
+    pointer-events: auto;
+
+  }
+#pageno{
+
+  padding: 5px 10px 5px 10px;
+  border: none;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  /* border-radius: 25px 25px 25px 25px; */
+    /* font-size: 16px; */
+  background: linear-gradient(135deg, #77cdc3, #F4F8FC);
+  color: black;
+  width: 70px;
+  transition: background 0.3s ease, box-shadow 0.3s ease;}
+  #pageno:focus {
+    background: linear-gradient(135deg, #F4F8FC, #77cdc3);
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.7);
+  }
+  
+
+  #next-page{
+    border-radius: 0 25px 25px 0;
+    padding: 5px 10px 5px 10px;
+  }
+  #prev-page{
+    border-radius: 25px 0px 0px 25px;
+    padding: 5px 10px 5px 10px;
+  }

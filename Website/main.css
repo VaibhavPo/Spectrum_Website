@@ -1,0 +1,734 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    line-height: 28.8px;
+    text-align: center;
+    color: rgb(33, 33, 33);
+}
+
+
+
+
+
+a {
+    color: #333;
+    /* Text color for normal links */
+    text-decoration: none;
+    padding: 5px 10px;
+    /* Add padding to create space around the link text */
+    border: 1px solid transparent;
+    /* Initially, the border is transparent */
+    transition: border-color 0.3s ease-in-out;
+    /* Add a smooth transition effect for the border color */
+}
+
+.boxed-link:hover {
+    border-color: #007bff;
+    /* Change the border color when hovered */
+}
+
+
+a:hover {
+    color: rgb(73, 160, 120);
+    /* Text color when hovering over links */
+    text-decoration: underline;
+
+}
+
+.sec1 {
+    background-color: #F4F8FC;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    /* max-height: fit-content; */
+    /* min-height: fit-content; */
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.sec2 {
+    background-color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 100%;
+    height: auto;
+}
+
+
+.txtsec1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-width: 45%;
+    max-height: 480px;
+    height: auto;
+    width: auto;
+    margin-right: 2%;
+
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+    color: rgb(33, 33, 33);
+    font-weight: 600;
+    line-height: 66px;
+    margin-top: 3px;
+    /* Remove default top margin */
+
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 49.5px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+h5 {
+
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 23px;
+    margin-bottom: 20px;
+
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 18px;
+    font-weight: 300;
+
+}
+
+
+/* .imgContainer img {
+    text-align: right; Float the image to the right */
+/* margin: 0 10px 0 10px; Add spacing around the image
+    border-radius: 2%;
+    max-width: 480px;
+    max-height: 480px;
+    height: auto;
+    width: auto;
+} */
+.intro-img {
+    height: 85%;
+    width: 85%;
+
+    padding: 5px;
+    padding-left: 30px;
+    border-radius: 2%;
+}
+
+.featuredIn {
+    line-height: 22px;
+    font-weight: 600;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 12%;
+    margin-right: 0%;
+    /* Add styles for grid layout */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+/* Style for the overall container */
+.review-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Style for each individual review card */
+.review-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+.review-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.review-content {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.review-rating {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff9900;
+}
+
+/* Styling for different rating types */
+.google-rating {
+    color: #ff9900;
+}
+
+.bbb-rating {
+    color: #007bff;
+}
+
+.a-plus-rating {
+    color: #28a745;
+}
+
+/*Service Section Begins*/
+#service {
+    padding-bottom: 1%;
+}
+
+.services-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* .services-heading {
+    font-size: 45px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 49.5px;
+} */
+
+.service {
+    width: calc(50% - 20px);
+    /* 50% width with spacing */
+    margin: 10px;
+    padding: 10px;
+    /* border: 1px solid #ccc; */
+    box-sizing: border-box;
+}
+
+.service img {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* .service h5 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+
+.service p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 300;
+} */
+
+.service-link {
+    color: rgb(73, 160, 120);
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.service-link:hover {
+    text-decoration: underline;
+}
+
+/**/
+.divider {
+
+
+    background-color: #F4F8FC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: relative; */
+
+}
+
+.divider p {
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.centered-line {
+    text-align: center;
+    position: relative;
+    padding: 20px;
+}
+
+.centered-line::before,
+.centered-line::after {
+    content: "";
+    display: block;
+    width: 100%;
+    /* Adjust the width of the line */
+    border-top: 1px solid #333;
+    /* Adjust line color */
+    /* position: absolute; */
+    top: 50%;
+    transform: translateY(-50%);
+    overflow: hidden;
+}
+
+.centered-line::before {
+    left: 10%;
+}
+
+.centered-line::after {
+    right: 10%;
+}
+
+
+/*Feature and beifit section*/
+.features-benefits-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 0.5%;
+    position: relative;
+}
+
+.feature-text {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.features,
+.benefits {
+    flex: 1;
+    padding: 2%;
+    box-sizing: border-box;
+
+}
+
+.features ul,
+.benefits ul {
+    list-style: none;
+    padding-left: 0;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* .features ul li::before,
+.benefits ul li::before {
+
+    color: #28a745;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    padding-right: 0rem;
+    content: "ur";
+    Unicode character for the desired font icon
+    font-family: "FontAwesome";
+    Font family that contains the icons
+} */
+.list {
+    color: #49a178;
+    padding: 2px 4px 2px 0;
+}
+
+.featuredItem img {
+    height: 30px;
+}
+
+.images img {
+    max-width: 75%;
+    height: auto;
+    border-radius: 2%;
+
+}
+
+/*Team Discription*/
+.team-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2px;
+}
+
+.post {
+    color: rgb(73, 160, 120);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.team-member {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.team-member img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+/*Testimonial section*/
+/* .testimonials-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+} */
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin: 50px 10% 0 10%;
+}
+
+.testimonial {
+    text-align: start;
+
+}
+
+.testimonial-rating {
+    font-size: 24px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: rgb(73, 160, 121);
+    /* Green color for stars */
+}
+
+
+.identity {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.testimonial-image {
+    max-width: 50px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.testimonial-author {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+/* Newsletter at the end*/
+.newsletter-section {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* 
+.section-heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+} */
+
+.subscribe-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.subscribe-form input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    width: 70%;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/*Footer*/
+.footer {
+
+    width: 100%;
+    background-color: #77cdc3;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    padding-bottom: 30px;
+    margin-top: 15px;
+}
+
+.social-icons {
+    margin-top: 10px;
+
+}
+.icon1,.icon2{
+    display: inline;
+    padding: 0;
+    
+}
+
+.social-icon {
+
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    text-decoration: none;
+    color: rgb(73, 160, 120);
+    /* Green color on hover */
+}
+
+.footerText a {
+    color: white;
+}
+
+.footerText a:hover {
+    color: rgb(73, 160, 120);
+}
+
+@media screen and (max-width: 800px) {
+
+
+    .features ul,
+    .benefits ul {
+        list-style: none;
+
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    #intro {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+        width: 100%;
+        /* padding: 2px; */
+        margin-bottom: 10px;
+    }
+
+    h1 {
+        font-family: "Poppins", sans-serif;
+        font-size: 35px;
+        color: rgb(33, 33, 33);
+        font-weight: 600;
+        line-height: 40px;
+        margin-top: 3px;
+        text-align: center;
+        /* Remove default top margin */
+
+    }
+
+    h2 {
+        font-size: 32px;
+        font-weight: 500;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+        line-height: 36px;
+    }
+
+    h3 {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    h5 {
+
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 18px;
+        margin-bottom: 20px;
+
+    }
+
+    p {
+        font-family: "Poppins", sans-serif;
+        color: rgb(77, 77, 77);
+        font-size: 15px;
+        font-weight: 300;
+        text-align: center;
+
+    }
+
+    .featuredIn {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .txtsec1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        max-width: 80%;
+        /* max-height: 480px; */
+        height: auto;
+        width: auto;
+        margin-right: 2%;
+
+    }
+
+    .images img {
+        max-width: 90vw;
+
+
+    }
+
+    .features-benefits-section {
+        height: auto;
+        max-width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: space-evenly;
+        justify-items: center;
+
+
+    }
+
+    .testimonials-grid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+    .services-section {
+        max-width: 100%;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        /* justify-content: space-between; */
+        align-items: center;
+        justify-content: center;
+    }
+
+    .service {
+        width: auto;
+    }
+
+    .service img {
+        max-width: 80%;
+
+    }
+
+    /* Existing CSS styles */
+
+    /* Add this CSS for the hover effect */
+    a:hover,
+    a:active,
+    a:focus {
+        color: rgb(73, 160, 120);
+        /* Change the text color when hovering or focused */
+        text-decoration: underline;
+        /* Add an underline when hovering or focused */
+    }
+    .footerText a {
+        color: white;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .footer {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .icon1,.icon2{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        padding: 0;
+        
+    }
+
+
+
+
+}
+
+/* Define a bounce animation */
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-20px);
+    }
+
+    60% {
+        transform: translateY(-10px);
+    }
+}
+
+/* Apply the bounce animation to font-awesome icons */
+.fa-solid.fa-bounce {
+    animation: bounce 2s 3;
+}
+
+.fa-regular.fa-bounce {
+    animation: bounce 2s 3;
+}
+
+.fa-light.fa-bounce {
+    animation: bounce 2s 3;
+}
