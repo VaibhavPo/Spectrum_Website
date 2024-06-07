@@ -1,0 +1,50 @@
+[18-Oct-2023 12:54:03 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/Backend/Modify quiz.php(83): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 12:54:26 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/Backend/Modify quiz.php(83): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 13:07:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/Backend/Modify quiz.php(83): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 13:51:19 America/Boise] PHP Warning:  Undefined array key "quiz_name" in /home2/pectrumc/public_html/Website/Backend/Quizbck.php on line 76
+[18-Oct-2023 13:51:32 America/Boise] PHP Warning:  Undefined variable $quiz_name in /home2/pectrumc/public_html/Website/Backend/modify.php on line 33
+[18-Oct-2023 13:51:32 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:16) in /home2/pectrumc/public_html/Website/Backend/modify.php on line 34
+[18-Oct-2023 13:52:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:16) in /home2/pectrumc/public_html/Website/Backend/insert_quiz.php on line 93
+[28-Dec-2023 06:29:47 America/Boise] PHP Warning:  Undefined variable $quiz_name in /home2/pectrumc/public_html/Website/Backend/modify.php on line 33
+[28-Dec-2023 06:29:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:16) in /home2/pectrumc/public_html/Website/Backend/modify.php on line 34
+[28-Dec-2023 06:39:01 America/Boise] PHP Warning:  Undefined variable $quiz_name in /home2/pectrumc/public_html/Website/Backend/modify.php on line 33
+[28-Dec-2023 06:39:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:16) in /home2/pectrumc/public_html/Website/Backend/modify.php on line 34
+[28-Dec-2023 12:59:46 America/Boise] PHP Warning:  Undefined variable $quiz_name in /home2/pectrumc/public_html/Website/Backend/modify.php on line 33
+[28-Dec-2023 12:59:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:16) in /home2/pectrumc/public_html/Website/Backend/modify.php on line 34
+[28-Dec-2023 13:00:17 America/Boise] PHP Warning:  Undefined variable $quiz_name in /home2/pectrumc/public_html/Website/Backend/modify.php on line 33
+[28-Dec-2023 13:00:17 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:16) in /home2/pectrumc/public_html/Website/Backend/modify.php on line 34
+[30-Dec-2023 06:11:35 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'question_image' cannot be null in /home2/pectrumc/public_html/Website/Backend/upload.php:42
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/upload.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/upload.php on line 42
+[30-Dec-2023 06:22:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'question_image' cannot be null in /home2/pectrumc/public_html/Website/Backend/upload.php:42
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/upload.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/upload.php on line 42
+[30-Dec-2023 06:22:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'question_image' cannot be null in /home2/pectrumc/public_html/Website/Backend/upload.php:42
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/upload.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/upload.php on line 42
+[30-Dec-2023 06:41:18 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'question_image' cannot be null in /home2/pectrumc/public_html/Website/Backend/upload.php:42
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/upload.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/upload.php on line 42

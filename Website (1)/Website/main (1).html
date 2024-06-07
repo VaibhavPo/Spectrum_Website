@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+    <title>Responsive Navigation Bar</title>
+    <style>
+      body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #d8dcdd;
+    color: #fff;
+    padding: 10px 0;
+   
+}
+
+.navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* .navbar h1 {
+    margin: 0;
+} */
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-links li{
+  padding: 5px;
+  color: black;
+}
+
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+}
+
+.menu-icon {
+    display: none; /* Initially hidden on larger screens */
+    flex-direction: column;
+    cursor: pointer;
+}
+
+
+/* .content {
+    padding: 20px;
+} */
+/* ... (previous styles) */
+
+@media screen and (max-width: 768px) {
+    .nav-links {
+        display: none; /* Hide navigation links on smaller screens */
+        flex-direction: column;
+        position: absolute;
+        top:0;
+        right: 0;
+        width: 25%;
+        min-height:100% ;    
+        height: auto;
+        background-color: #9bceb7ba;
+        z-index:-1;
+    }
+
+    .nav-links.active {
+        display: flex; /* Show navigation links when active */
+
+    }
+
+    .menu-icon {
+        display: flex; /* Show the menu icon on smaller screens */
+    }
+}
+
+
+    </style>
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="navbar-content">
+            <h1>Your Logo</h1>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="menu-icon" id="menu-icon">
+                <div id="show"><i class="fa-solid fa-bars fa-bounce" style="color: #46a078;"></i></div>
+                <div id="hide" style="display: none;"><i class="fa-solid fa-xmark" style="color: #46a078;"></i></div>
+
+
+            </div>
+        </div>
+    </nav>
+    <div class="content">
+        <!-- Your page content goes here -->
+    </div>
+    <script>
+const menuIcon = document.getElementById("menu-icon");
+const lines = document.getElementById('show');
+const cross = document.getElementById('hide');
+const navLinks = document.querySelector(".nav-links");
+
+menuIcon.addEventListener("click", function () {
+    navLinks.classList.toggle("active");
+    // cross.style.display='none';
+    // Toggle the display of lines and cross
+    if (lines.style.display === 'none') {
+        lines.style.display = 'block';
+        cross.style.display = 'none';
+    } else {
+        lines.style.display = 'none';
+        cross.style.display = 'block';
+    }
+});
+
+
+    </script>
+</body>
+</html>

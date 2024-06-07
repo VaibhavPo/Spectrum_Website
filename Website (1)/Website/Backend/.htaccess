@@ -1,0 +1,7 @@
+<Files "*">
+    AuthType Basic
+    AuthName "Restricted Area"
+    AuthUserFile /home2/pectrumc/public_html/Website/Backend/.htpasswd
+    Require valid-user
+    ErrorDocument 401 /main.html
+</Files>

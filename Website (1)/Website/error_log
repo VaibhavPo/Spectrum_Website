@@ -1,0 +1,720 @@
+[18-Oct-2023 08:16:26 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 08:16:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 08:24:33 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 09:06:07 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 09:06:22 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 09:06:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 09:06:32 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 12:02:40 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 13:32:11 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 13:32:11 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_WPRWD'@'119.18.49.33' (using password: YES) in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('spectrumclasses...', 'pectrumc_WPRWD', Object(SensitiveParameterValue), 'pectrumc_chemis...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[18-Oct-2023 13:32:15 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php(9): mysqli->__construct('sql109.unaux.co...', 'unaux_34158127', Object(SensitiveParameterValue), 'unaux_34158127_...')
+#1 /home2/pectrumc/public_html/Website/See more quiz.php(35): include('/home2/pectrumc...')
+#2 {main}
+  thrown in /home2/pectrumc/public_html/Website/Backend/Database_Quiz.php on line 9
+[21-Oct-2023 00:40:33 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[21-Oct-2023 00:40:34 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[21-Oct-2023 00:40:59 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[24-Oct-2023 00:36:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[24-Oct-2023 00:36:13 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Oct-2023 23:25:03 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Oct-2023 23:25:04 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[26-Oct-2023 23:20:09 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[26-Oct-2023 23:20:10 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[26-Oct-2023 23:20:40 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[27-Oct-2023 23:33:36 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[27-Oct-2023 23:33:38 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[02-Nov-2023 00:37:23 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[02-Nov-2023 00:37:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Nov-2023 05:38:29 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Nov-2023 05:38:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Nov-2023 05:38:34 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Nov-2023 23:53:11 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Nov-2023 23:53:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[05-Nov-2023 22:19:16 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[05-Nov-2023 22:19:17 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[11-Nov-2023 04:15:54 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[12-Nov-2023 00:37:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[12-Nov-2023 00:37:13 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[14-Nov-2023 00:06:58 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[14-Nov-2023 00:07:00 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[15-Nov-2023 23:09:46 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[15-Nov-2023 23:09:48 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[16-Nov-2023 23:09:02 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[16-Nov-2023 23:09:03 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[17-Nov-2023 23:20:09 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[17-Nov-2023 23:20:11 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[19-Nov-2023 23:33:20 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[19-Nov-2023 23:33:21 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[20-Nov-2023 23:04:53 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[20-Nov-2023 23:04:54 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[21-Nov-2023 23:50:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[21-Nov-2023 23:50:26 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Nov-2023 23:09:56 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Nov-2023 23:09:57 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Nov-2023 23:10:01 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[27-Nov-2023 00:09:46 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[28-Nov-2023 23:10:33 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[28-Nov-2023 23:10:34 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Nov-2023 23:38:47 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Nov-2023 23:38:48 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[30-Nov-2023 23:21:27 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[30-Nov-2023 23:21:28 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[02-Dec-2023 00:09:17 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[02-Dec-2023 00:09:18 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[02-Dec-2023 23:22:52 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[02-Dec-2023 23:22:53 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Dec-2023 23:24:06 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Dec-2023 23:24:08 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[04-Dec-2023 23:21:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[04-Dec-2023 23:21:26 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[06-Dec-2023 23:53:09 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[06-Dec-2023 23:53:10 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[11-Dec-2023 00:17:13 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[11-Dec-2023 00:17:15 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[12-Dec-2023 23:47:39 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[12-Dec-2023 23:47:40 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[20-Dec-2023 00:11:05 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[20-Dec-2023 00:11:07 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[24-Dec-2023 00:35:54 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[24-Dec-2023 00:35:55 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[24-Dec-2023 23:24:06 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[24-Dec-2023 23:24:07 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Dec-2023 23:53:30 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Dec-2023 23:53:32 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Dec-2023 23:54:03 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[27-Dec-2023 00:06:51 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[27-Dec-2023 00:06:52 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[28-Dec-2023 01:07:39 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[28-Dec-2023 01:07:40 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Jan-2024 23:37:55 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Jan-2024 23:37:57 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Jan-2024 23:38:46 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[03-Jan-2024 23:38:49 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[05-Jan-2024 22:23:57 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[05-Jan-2024 22:23:58 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[18-Feb-2024 04:06:30 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[22-Feb-2024 21:01:48 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[22-Feb-2024 21:01:49 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[22-Feb-2024 21:02:08 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[22-Feb-2024 21:02:13 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[25-Feb-2024 08:25:29 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Feb-2024 08:25:30 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Feb-2024 08:40:07 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[26-Feb-2024 11:37:35 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[26-Feb-2024 11:37:36 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[27-Feb-2024 17:33:52 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[27-Feb-2024 17:33:53 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[28-Feb-2024 20:23:30 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[28-Feb-2024 20:23:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Feb-2024 22:22:42 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Feb-2024 22:22:43 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Feb-2024 22:23:07 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[29-Feb-2024 22:23:08 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[01-Mar-2024 23:38:00 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[01-Mar-2024 23:38:01 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Mar-2024 01:21:04 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Mar-2024 01:21:05 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[06-Mar-2024 23:32:58 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[06-Mar-2024 23:32:59 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[08-Mar-2024 01:07:49 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[08-Mar-2024 01:07:50 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[09-Mar-2024 00:54:46 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[09-Mar-2024 00:54:47 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[13-Mar-2024 01:24:16 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[13-Mar-2024 01:24:17 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[14-Mar-2024 02:19:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[14-Mar-2024 02:19:13 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[15-Mar-2024 01:38:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[15-Mar-2024 01:38:27 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[17-Mar-2024 00:20:11 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[17-Mar-2024 00:20:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[19-Mar-2024 06:24:15 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[19-Mar-2024 06:24:17 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[20-Mar-2024 05:07:09 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[20-Mar-2024 05:07:11 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[21-Mar-2024 03:08:59 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[21-Mar-2024 03:09:01 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[23-Mar-2024 04:36:17 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[23-Mar-2024 04:36:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Mar-2024 10:33:28 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[25-Mar-2024 10:33:29 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[27-Mar-2024 05:56:23 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[27-Mar-2024 05:56:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Mar-2024 03:49:54 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[29-Mar-2024 03:49:55 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[30-Mar-2024 05:32:53 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[30-Mar-2024 05:32:54 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[30-Mar-2024 05:32:56 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[30-Mar-2024 05:32:59 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
+[31-Mar-2024 03:29:49 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[31-Mar-2024 03:29:50 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[01-Apr-2024 23:06:35 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[01-Apr-2024 23:06:36 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Apr-2024 23:34:54 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[03-Apr-2024 23:34:56 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pectrumc_chemistry_quiz'@'localhost' (using password: YES) in /home2/pectrumc/public_html/Website/Subscribe.php:9
+Stack trace:
+#0 /home2/pectrumc/public_html/Website/Subscribe.php(9): mysqli->__construct('localhost', 'pectrumc_chemis...', Object(SensitiveParameterValue), 'pectrumc_email_...')
+#1 {main}
+  thrown in /home2/pectrumc/public_html/Website/Subscribe.php on line 9
+[14-May-2024 06:18:45 America/Boise] PHP Warning:  Undefined array key "database" in /home2/pectrumc/public_html/Website/Calculate_score.php on line 8
