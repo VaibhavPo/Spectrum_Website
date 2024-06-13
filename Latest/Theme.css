@@ -1,0 +1,226 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    line-height: 28.8px;
+    text-align: center;
+    color: rgb(33, 33, 33);
+}
+
+/* Button css :start */
+button {
+    font-size: 14px;      
+    border-radius: 6px;
+    cursor: pointer;    
+    padding: 18px 27px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+  }
+.primary {
+    background-color: #2270E2;
+    color: #fff;
+    box-shadow: 0 6px 8px rgba(52, 152, 219, 0.3);
+    border: 1px solid white;
+    /* border-radius: 50%; */
+    padding: 10px 20px;
+  }
+  .primary:hover {
+    background-color: #2980b9;
+  }
+
+/* Button css :end */
+
+a {
+    color: #333;
+    /* Text color for normal links */
+    text-decoration: none;
+    padding: 5px 10px;
+    /* Add padding to create space around the link text */
+    border: 1px solid transparent;
+    /* Initially, the border is transparent */
+    transition: border-color 0.3s ease-in-out;
+    /* Add a smooth transition effect for the border color */
+}
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+    color: rgb(33, 33, 33);
+    font-weight: 600;
+    line-height: 66px;
+    margin-top: 3px;
+    /* Remove default top margin */
+
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 49.5px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+h5 {
+
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 23px;
+    margin-bottom: 20px;
+
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 18px;
+    font-weight: 300;
+
+}
+
+
+/*Footer*/
+.footer {
+
+    width: 100%;
+    background-color: #77cdc3;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    padding-bottom: 30px;
+    margin-top: 15px;
+}
+
+.social-icons {
+    margin-top: 10px;
+
+}
+.icon1,.icon2{
+    display: inline;
+    padding: 0;
+    
+}
+
+.social-icon {
+
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    text-decoration: none;
+    color: rgb(73, 160, 120);
+    /* Green color on hover */
+}
+
+.footerText a {
+    color: white;
+}
+
+.footerText a:hover {
+    color: rgb(73, 160, 120);
+}
+
+
+@media screen and (max-width: 800px) {
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+        width: 100%;
+        /* padding: 2px; */
+        margin-bottom: 10px;
+    }
+    h1 {
+        font-family: "Poppins", sans-serif;
+        font-size: 35px;
+        color: rgb(33, 33, 33);
+        font-weight: 600;
+        line-height: 40px;
+        margin-top: 3px;
+        text-align: center;
+        /* Remove default top margin */
+
+    }
+
+    h2 {
+        font-size: 32px;
+        font-weight: 500;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+        line-height: 36px;
+    }
+
+    h3 {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    h5 {
+
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 18px;
+        margin-bottom: 20px;
+
+    }
+
+    p {
+        font-family: "Poppins", sans-serif;
+        color: rgb(77, 77, 77);
+        font-size: 15px;
+        font-weight: 300;
+        text-align: center;
+
+    }
+
+    .featuredIn {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+  
+    /* Existing CSS styles */
+
+    /* Add this CSS for the hover effect */
+    a:hover,
+    a:active,
+    a:focus {
+        color: rgb(73, 160, 120);
+        /* Change the text color when hovering or focused */
+        text-decoration: underline;
+        /* Add an underline when hovering or focused */
+    }
+    .footerText a {
+        color: white;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .footer {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+    }
+}

@@ -1,0 +1,177 @@
+ #intro{
+    margin-top: 0%;
+    padding-top: 0%;position: relative;
+ }
+ .bgImg{
+    max-height: 85vh;
+    min-width: 50%;
+    
+    /* position:absolute */
+
+}
+
+#intro-viewService{
+    position: absolute ;
+    top: 80% ;
+    left:45% ;
+    z-index: 400;
+}
+
+
+.boxed-link:hover {
+    border-color: #007bff;
+    /* Change the border color when hovered */
+}
+
+
+a:hover {
+    color: rgb(73, 160, 120);
+    /* Text color when hovering over links */
+    text-decoration: underline;
+
+}
+
+.sec1 {
+    background-color: #F4F8FC;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    /* max-height: fit-content; */
+    /* min-height: fit-content; */
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.sec2 {
+    background-color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 100%;
+    height: auto;
+}
+
+
+.txtsec1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-width: 45%;
+    max-height: 480px;
+    height: auto;
+    width: auto;
+    margin-right: 2%;
+
+}
+
+
+
+.social-icons {
+    margin-top: 10px;
+
+}
+.icon1,.icon2{
+    display: inline;
+    padding: 0;
+    
+}
+
+.social-icon {
+
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    text-decoration: none;
+    color: rgb(73, 160, 120);
+    /* Green color on hover */
+}
+
+.footerText a {
+    color: white;
+}
+
+.footerText a:hover {
+    color: rgb(73, 160, 120);
+}
+
+@media screen and (max-width: 800px) {
+
+
+    .features ul,
+    .benefits ul {
+        list-style: none;
+
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    #intro {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+        width: 100%;
+        /* padding: 2px; */
+        margin-bottom: 10px;
+    }
+
+   
+    .icon1,.icon2{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        padding: 0;
+        
+    }
+
+
+
+
+}
+
+/* Define a bounce animation */
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-20px);
+    }
+
+    60% {
+        transform: translateY(-10px);
+    }
+}
+
+/* Apply the bounce animation to font-awesome icons */
+.fa-solid.fa-bounce {
+    animation: bounce 2s 3;
+}
+
+.fa-regular.fa-bounce {
+    animation: bounce 2s 3;
+}
+
+.fa-light.fa-bounce {
+    animation: bounce 2s 3;
+}
